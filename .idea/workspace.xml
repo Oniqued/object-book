@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="119fd61c-eabe-4614-8cd3-0d8570be4f63" name="변경" comment="" />
+    <list default="true" id="119fd61c-eabe-4614-8cd3-0d8570be4f63" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/ch02/src/money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/src/movie/step01/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/src/movie/step01/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/src/movie/step01/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/src/movie/step01/Screening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/ch03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Z4CttJJWDGJcsmiKrtgVRcn32Y" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -22,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/sion/File/Workspace/Study/Object",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701672183823</updated>
-      <workItem from="1701672184843" duration="333000" />
+      <workItem from="1701672184843" duration="4609000" />
+      <workItem from="1701748481147" duration="250000" />
     </task>
     <servers />
   </component>
